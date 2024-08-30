@@ -8,5 +8,15 @@
 body{
      background-color: var(--cor-de-fundo);
     color: var(--branco-principa);}
-    *{margin: 0;
-    padding: 0;}
+ *{margin: 0;
+    padding: 0;}  
+
+.container {
+    height: 100vh;
+}
+
+.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
