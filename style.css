@@ -11,12 +11,15 @@ body{
  *{margin: 0;
     padding: 0;}  
 
-.container {
-    height: 100vh;
+.principal {
+   background-image: url( "img/Background.png") ;
 }
+ .principal{
+    height: 100vh;
+ }
 
+ conte
 .principal {
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-}
