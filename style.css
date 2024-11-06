@@ -19,7 +19,8 @@ body{
  }
 
  conte
-.principal {
+.principal__botao{
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
+} 
